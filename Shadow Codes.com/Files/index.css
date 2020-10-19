@@ -1,0 +1,17 @@
+#head{
+    font-family: 'Krona One', sans-serif;
+    color: gray;
+}
+.bar{
+    font-family: 'Krona One', sans-serif;
+    color: gray;
+}
+table{
+    font-family: 'Krona One', sans-serif;
+    color: cyan;
+}
+th{
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
